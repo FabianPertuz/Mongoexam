@@ -1,0 +1,193 @@
+[
+    {
+       "sku":"M101",
+       "title":"back in black",
+       "artist":"AC/DC",
+       "genre":"rock",
+       "release_year":1980,
+       "format":"Vinilo",
+       "price":95000,
+       "stock":8,
+       "rating":4.9,
+       "tags": ["clasico","coleccionable","edicion especial"],
+       "label":{
+           "name":"atlantic Records",
+           "country":"Estados unidos"
+       },
+       "import_type":"importado"
+   
+    },
+    {
+       "sku":"M034",
+       "title":"even in arcadia",
+       "artist":"sleep token",
+       "genre":"metal",
+       "release_year":2025,
+       "format":"Vinilo",
+       "price":105000,
+       "stock":15,
+       "rating":5,
+       "tags": ["coleccionable","edicion especial"],
+       "label":{
+           "name":"idk records",
+           "country":"Estados unidos"
+       },
+       "import_type":"importado"
+    },
+    {
+       "sku":"M103",
+       "title":"once upon a time",
+       "artist":"toby fox",
+       "genre":"mixed",
+       "release_year":2015,
+       "format":"cd",
+       "price":35000,
+       "stock":14,
+       "rating":4.8,
+       "tags": ["coleccionable","indie"],
+       "label":{
+           "name":"Materia Records",
+           "country":"Estados unidos"
+       },
+       "import_type":"importado"
+    },  
+    {
+       "sku":"M104",
+       "title":"sepiternal",
+       "artist":"BMTH",
+       "genre":"metal",
+       "release_year":2015,
+       "format":"digital",
+       "price":15000,
+       "stock":11,
+       "rating":4.4,
+       "tags": ["coleccionable","edicion especial"],
+       "label":{
+           "name":"Times records",
+           "country":"inglaterra"
+       },
+       "import_type":"importado"
+    },  
+    {
+       "sku":"M105",
+       "title":"megitsune",
+       "artist":"BABYMETAL",
+       "genre":"metal",
+       "release_year":2018,
+       "format":"digital",
+       "price":25000,
+       "stock":4,
+       "rating":4.0,
+       "tags": ["coleccionable","edicion especial","colab"],
+       "label":{
+           "name":"Termina Records",
+           "country":"Japon"
+       },
+       "import_type":"importado"
+    },  
+    {
+       "sku":"M043",
+       "title":"thriller",
+       "artist":"michel jackson",
+       "genre":"pop",
+       "release_year":1970,
+       "format":"Vinilo",
+       "price":80000,
+       "stock":9,
+       "rating":4.3,
+       "tags": ["clasico","coleccionable","edicion especial"],
+       "label":{
+           "name":"Gramar Records",
+           "country":"Estados unidos"
+       },
+       "import_type":"importado"
+    },  
+    {
+       "sku":"M025",
+       "title":"king crimson",
+       "artist":"king crimson",
+       "genre":"rock",
+       "release_year":1990,
+       "format":"Vinilo",
+       "price":75000,
+       "stock":3,
+       "rating":3.9,
+       "tags": ["clasico","coleccionable","edicion especial"],
+       "label":{
+           "name":"Pe Records",
+           "country":"idk"
+       },
+       "import_type":"importado"
+    },  
+    {
+       "sku":"M018",
+       "title":"bees knees",
+       "artist":"yljzz",
+       "genre":"jazz",
+       "release_year":1979,
+       "format":"Vinilo",
+       "price":65000,
+       "stock":99,
+       "rating":4.9,
+       "tags": ["clasico","coleccionable","edicion especial"],
+       "label":{
+           "name":"Movei Records",
+           "country":"colombia"
+       },
+       "import_type":"Nacional"
+    },  
+    {
+       "sku":"M109",
+       "title":"mortal reminder",
+       "artist":"pentakill",
+       "genre":"metal",
+       "release_year":2018,
+       "format":"digital",
+       "price":45000,
+       "stock":8,
+       "rating":4.7,
+       "tags": ["coleccionable","edicion especial","indie"],
+       "label":{
+           "name":"Riot Games",
+           "country":"Estados unidos"
+       },
+       "import_type":"importado"
+    },  
+    {
+       "sku":"M059",
+       "title":"mmZx",
+       "artist":"SJD",
+       "genre":"mixed",
+       "release_year":2000,
+       "format":"cd",
+       "price":35000,
+       "stock":10,
+       "rating":3.8,
+       "tags": ["coleccionable","edicion especial","oferta"],
+       "label":{
+           "name":"capcom",
+           "country":"Japon"
+       },
+       "import_type":"importado"
+    },
+    {
+       "sku":"M012",
+       "title":"last stand",
+       "artist":"POWERWOLF",
+       "genre":"rock",
+       "release_year":1995,
+       "format":"Vinilo",
+       "price":105000,
+       "stock":2,
+       "rating":4.2,
+       "tags": ["clasico","coleccionable","edicion especial"],
+       "label":{
+           "name":"idk records",
+           "country":"Estados unidos"
+       },
+       "import_type":"importado"
+    }  
+   ]
+   
+   
+   
